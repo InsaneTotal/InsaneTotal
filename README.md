@@ -11,6 +11,10 @@ TECH STACK:
 CAPSTONE PROJECT:
 A full-scale web application built for my degree project, designed to streamline bar's operations. It features real-time order tracking, inventory management, sales reporting, and live table status control.
 
+Link repository: 
+- Frontend: https://github.com/InsaneTotal/nightcode_front
+- Backend: https://github.com/InsaneTotal/nightcode_back
+
 - Tech Stack: React, Django REST Framework, PostgreSQL.
 - Key Feature: REST API consumption for secure user authentication.
 
